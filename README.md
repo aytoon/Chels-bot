@@ -16,4 +16,6 @@ A old discord bot with cool features for newcomer. Created with discord.js
 - path<br>
 - random-puppy
 
+**NOTE:** Install this packages by type `npm i <package>`, and npm will install the packages to your folder.
+
 (C) Created by Pluide. All resources is as download/template allowed.
