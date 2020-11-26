@@ -1,6 +1,6 @@
 {
-  "token": "NzMwMTIzMjkyMTczNjY0MzE2.XwTkEQ.yDWBMTn3ulHMXOsMRi_X-RsqfCY",
+  "token": "BOT_TOKEN",
   "everyoneMention": false,
   "hostedBy": true,
-  "prefix": "c?"
+  "prefix": "BOT_PREFIX"
 }
